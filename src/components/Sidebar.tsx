@@ -18,8 +18,8 @@ export function Sidebar({ currentView, onNewMeeting, onHome }: SidebarProps) {
             </svg>
           </div>
           <div>
-            <div className="font-semibold">CRM Sistemi</div>
-            <div className="text-xs text-gray-400">Müşteri Görüşme Yönetimi</div>
+            <div className="font-semibold">Kutlu Yazılım Çözümleri ve Danışmanlık</div>
+            <div className="text-xs text-gray-400">Müşteri Görüşme Takip Sistemi</div>
           </div>
         </div>
       </div>
