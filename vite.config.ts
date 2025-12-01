@@ -11,7 +11,7 @@ export default defineConfig({
   },
   build: {
     target: 'esnext',
-    outDir: 'dist', // Vercel'in beklediği klasör
+    outDir: 'dist', // Vercel burayı görmeli
   },
   server: {
     port: 3000,
